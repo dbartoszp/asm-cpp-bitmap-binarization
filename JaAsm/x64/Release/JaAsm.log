@@ -1,0 +1,4 @@
+﻿  Assembling JaDll.asm...
+     Trwa tworzenie biblioteki C:\Users\Bartuś\source\repos\JA_dll_cpp\x64\Release\JaAsm.lib i obiektu C:\Users\Bartuś\source\repos\JA_dll_cpp\x64\Release\JaAsm.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  JaAsm.vcxproj -> C:\Users\Bartuś\source\repos\JA_dll_cpp\x64\Release\JaAsm.dll
